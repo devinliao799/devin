@@ -8,3 +8,4 @@ pull
 devin1
 ssh
 ssh
+gitee同步
